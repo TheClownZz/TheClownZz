@@ -14,7 +14,7 @@
 <div>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">: I am a Game Developer from Vietnam.
 </div>
-:seedling: Exploring technical of graphic and networking.
+:seedling: Exploring technical of graphic, physical and networking in game.
 
 :zap: In my free time, I watch anime and play game.
 
